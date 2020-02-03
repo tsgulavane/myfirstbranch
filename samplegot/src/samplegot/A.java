@@ -14,7 +14,7 @@ public class A {
 		System.out.println("Z");
 		System.out.println("Z");
 		
-		
+		 
 		
 		
 		
