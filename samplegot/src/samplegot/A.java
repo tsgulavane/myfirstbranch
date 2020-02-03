@@ -9,10 +9,10 @@ public class A {
 		System.out.println("B");
 		System.out.println("A");
 		System.out.println("q");
-		 
-		 
-		System.out.println("Q");
-		System.out.println("Q");
+		
+		
+		System.out.println("Z");
+		System.out.println("Z");
 		
 		
 		
