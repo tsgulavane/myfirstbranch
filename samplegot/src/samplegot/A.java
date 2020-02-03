@@ -11,8 +11,8 @@ public class A {
 		System.out.println("q");
 		 
 		
-		System.out.println("Z");
-		System.out.println("Z");
+		System.out.println("A");
+		System.out.println("V");
 		
 		
 		
