@@ -10,7 +10,7 @@ public class A {
 		System.out.println("A");
 		System.out.println("q");
 		 
-		
+		 
 		System.out.println("Q");
 		System.out.println("Q");
 		
