@@ -8,7 +8,7 @@ public class A {
 		System.out.println("A");
 		System.out.println("B");
 		System.out.println("A");
-		System.out.println("L");
+		System.out.println("z");
 		}
 
 }
